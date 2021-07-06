@@ -1,13 +1,13 @@
 from typing import Type
 from behave import given, when, then
+from werkzeug.wrappers import response
 from src.calculadora import *
 
 
 @given(u'se inicia la calculadora')
 def step_impl(context):
     print(u'STEP: Given se inicia la calculadora')
-    pass
-
+    
 
 @when(u'el usuario quiere sumar dos numeros {num1} y {num2}')
 def step_impl(context, num1, num2):
