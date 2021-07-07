@@ -7,6 +7,7 @@ BDD o Desarrollo impulsado por comportamiento (Behavor Driven Development), es u
 Si damos una mirada de forma simplificada en la metodología de desarrollo tradicional, supongamos que un cliente quiere desarrollar un nuevo módulo en su software, el proceso para desarrollar esta nueva funcionalidad seria la siguiente 
 
 (Ver Figura 1):  
+![figura1](https://user-images.githubusercontent.com/55904664/124683239-f9af1000-dea2-11eb-8da9-a15a140a9ce3.png)
 
 - 1.- El cliente le dice al analista de negocio como le gustaría que funcionara la nueva funcionalidad. 
 
