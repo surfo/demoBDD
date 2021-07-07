@@ -27,9 +27,8 @@ Figura 1. Modelo Tradicional
 
 Si observamos otro caso donde utilizan el modelo agile aplicando BDD, se muestra un equipo donde los analistas de negocios, desarrolladores y testers colaboran para comprender juntos los requisitos, utilizando un lenguaje común que les permite un camino fácil y menos ambiguo desde los requisitos del usuario final hasta las pruebas automatizadas. Estas pruebas automatizadas especifican como debe comportarse el software funcional que se centra principalmente en las funciones que realmente le importa al negocio. 
 
- 
-
-Figura 2. Modelo Agile aplicando BDD  
+![figra2](https://user-images.githubusercontent.com/55904664/124683592-bf923e00-dea3-11eb-89ba-2d2d774e4b6d.png) 
+***Figura 2. Modelo Agile aplicando BDD***  
 
  
 
@@ -52,8 +51,8 @@ El Desarrollo guiado por pruebas TDD (Test Driven Development)  y el Desarrollo 
  
 
  
-
-Figura 3. Ciclo de BDD  
+![figura3](https://user-images.githubusercontent.com/55904664/124683600-c456f200-dea3-11eb-98a7-4812f6417545.png)
+***Figura 3. Ciclo de BDD***  
 
  
 
@@ -116,10 +115,8 @@ En la imagen 4, podemos observar un ejemplo de cómo es la estructura de una his
 - Criterios de aceptación: o pruebas de aceptación cumplen dos funciones, clarificar el contexto en el que ocurre la historia de usuario y facilitar saber cuándo está terminada. 
 
  
-
- 
-
-Figura 4. Ejemplo de la Composición de una Historia de Usuario (INVEST) en Octane 
+![figura4](https://user-images.githubusercontent.com/55904664/124683606-c8830f80-dea3-11eb-98bc-b3fe4e367a10.png)
+***Figura 4. Ejemplo de la Composición de una Historia de Usuario (INVEST) en Octane*** 
 
  
 
@@ -347,7 +344,7 @@ Este proceso que embebe TDD en un BDD se repite para todas las historias de usua
 Este proceso se represa en el siguiente esquema: 
 
  
-
+![figura11](https://user-images.githubusercontent.com/55904664/124683617-ce78f080-dea3-11eb-9edb-ac2d74a06197.jpg)
 ***Figura 11. Proceso iterativo de TDD*** 
 
  
@@ -358,7 +355,7 @@ Este proceso se represa en el siguiente esquema:
 BDD admite la automatización de pruebas de componentes y de la interface de usuario (UI). Y como buena práctica general para el mantenimiento y la mejora futura, se recomienda que se siga el enfoque de la pirámide de pruebas en términos de número de pruebas y cobertura en todo el espectro de pruebas automatizadas. (Pruebas unitarias, Prueba de componente (API) y Pruebas de UI. 
 
  
-
+![figura12](https://user-images.githubusercontent.com/55904664/124683629-d20c7780-dea3-11eb-9b2b-326b8f09709d.png)
 ***Figura 12. Pirámide de pruebas*** 
 
  
