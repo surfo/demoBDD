@@ -399,4 +399,17 @@ Beneficios: El objetivo final de BDD es tener especificaciones de negocio compre
 
 ## Ciclo de TDD haciendo nuestra prueba unitaria 
 
+
+
+## Apartado Tecnico
+
+Es necesario instalar:
+
+
+allure-behave
+```python
+pip install allure-behave
+
+$ behave -f allure_behave.formatter:AllureFormatter -o reporte_EF/ features
+```
  

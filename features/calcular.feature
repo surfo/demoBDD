@@ -16,5 +16,8 @@ Scenario: restar
         When el usuario quiere restar dos numeros 10 y 3 
         Then el resultado de la resta es 7
 
-
+Scenario: dividir
+        Given se inicia la calculadora
+        When el usuario quiere dividir dos numeros 10 y 2 
+        Then el resultado de la division es 5
 
