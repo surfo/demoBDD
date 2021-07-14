@@ -405,8 +405,22 @@ Beneficios: El objetivo final de BDD es tener especificaciones de negocio compre
 
 Es necesario instalar:
 
+Pytest
+```python
+$ pip install pytest
+```
 
-allure-behave
+Behave
+```python
+$ pip install behave
+```
+
+Selenium
+```python
+$ pip install selenium
+```
+
+Reportes allure-behave
 ```python
 pip install allure-behave
 
